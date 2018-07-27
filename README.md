@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+7, 2018
 
 ### Student Name:  
-(First and Last Name)
+Haley OHanna
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Used JQuery and animation techniques to make a Recipe Display Application.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://haleyohanna.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Every jQuery statement begins with $ and make known that anything after is using JQuery.
+2. JQuery API includes methods for performing actions on selected elements.
+3. JQuery enables developers to implement common tasks with minimal code.
 
